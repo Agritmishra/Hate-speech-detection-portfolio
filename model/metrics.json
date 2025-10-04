@@ -1,0 +1,14 @@
+{
+  "accuracy": 0.0,
+  "report": "                       precision    recall  f1-score   support\n\n          Hate Speech     0.0000    0.0000    0.0000       2.0\nNo Hate and Offensive     0.0000    0.0000    0.0000       0.0\n\n             accuracy                         0.0000       2.0\n            macro avg     0.0000    0.0000    0.0000       2.0\n         weighted avg     0.0000    0.0000    0.0000       2.0\n",
+  "confusion_matrix": [
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      0
+    ]
+  ]
+}
